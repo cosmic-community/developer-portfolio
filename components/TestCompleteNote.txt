@@ -1,0 +1,1 @@
+This repository build includes all components referenced by imports in the generated code.
